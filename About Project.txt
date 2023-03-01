@@ -1,0 +1,1 @@
+This Project contains two apps. One for Student and another for Teacher

@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1035107655519",
+    "project_id": "college-connect-e71c1",
+    "storage_bucket": "college-connect-e71c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035107655519:android:9c55e172faf3ba7d0b60ea",
+        "android_client_info": {
+          "package_name": "com.example.college_connect_faculty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035107655519-c9b4a2e9a5r1690ecbav7karkt167tpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgHC1o9DqC-EaBJ3Bbu_4Tzjfo3PzpGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035107655519-c9b4a2e9a5r1690ecbav7karkt167tpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035107655519:android:249b96d71607a14a0b60ea",
+        "android_client_info": {
+          "package_name": "com.example.collegeconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035107655519-hl9h1cqirtahhjr1i8305dg09rfe469m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegeconnect",
+            "certificate_hash": "6ccd1646a6d87702f57dd1176fcbe7022a746cad"
+          }
+        },
+        {
+          "client_id": "1035107655519-c9b4a2e9a5r1690ecbav7karkt167tpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgHC1o9DqC-EaBJ3Bbu_4Tzjfo3PzpGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035107655519-c9b4a2e9a5r1690ecbav7karkt167tpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
