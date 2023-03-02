@@ -25,16 +25,16 @@ $randomnumber = $_POST['generatedOTP'];
         $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
         $mail->SMTPAuth   = true;      
         //Enter your sender email                             //Enable SMTP authentication
-        $mail->Username   = 'kotadiyajaivik0123@gmail.com';                     //SMTP username
-        $mail->Password   = 'rwfpqwdfxgtzbvhu';                               //SMTP password
+        $mail->Username   = 'Your Email';                     //SMTP username
+        $mail->Password   = 'Your Password';                               //SMTP password
         $mail->SMTPSecure = 'tls';            //Enable implicit TLS encryption
         $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
     
         //Recipients
-        $mail->setFrom('kotadiyajaivik0123@gmail.com', 'Jaivik');
+        $mail->setFrom('Your Email', 'Jaivik');
         $mail->addAddress($EmailID);     //Add a recipient
                //Name is optional
-        $mail->addReplyTo('kotadiyajaivik0123@gmail.com', 'Jaivik');
+        $mail->addReplyTo('Your Email', 'Jaivik');
         // $mail->addCC('cc@example.com');
         // $mail->addBCC('bcc@example.com');
     
